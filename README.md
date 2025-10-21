@@ -1,3 +1,4 @@
+![logo](https://github.com/Shaheer512/Shaheer512/blob/main/githubBanner.gif)
 <h1 align="center">Hi 👋, I'm Shaheer Raja</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
