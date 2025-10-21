@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://fb.com/raja shaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raja shaheer" height="30" width="40" /></a>
 <a href="https://instagram.com/rj_.shaheer22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rj_.shaheer22" height="30" width="40" /></a>
+  <a href="https://github.com/Shaheer512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shaheer512" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
